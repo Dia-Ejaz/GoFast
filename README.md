@@ -42,8 +42,8 @@ GoFast/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/gofast.git
-   cd gofast
+   git clone https://github.com/Dia-Ejaz/GoFast.git
+   cd GoFast
    ```
 
 2. **Set up the backend (Python)**  
